@@ -13,8 +13,8 @@ Syntax highlighted code block
 
 # Captain
 Monkey D. Luffy
-
-## current crew
+<img="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS88f36TVnyhPtN1tENLPrt3EFUCFUvR2pKQw&usqp=CAU## current crew
+" />
 Roronoa Zoro
 
 Nami
