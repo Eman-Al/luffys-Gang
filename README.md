@@ -13,16 +13,14 @@ Syntax highlighted code block
 
 # Captain
 Monkey D. Luffy
-<img="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS88f36TVnyhPtN1tENLPrt3EFUCFUvR2pKQw&usqp=CAU## current crew
-" />
+<img="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS88f36TVnyhPtN1tENLPrt3EFUCFUvR2pKQw&usqp=CAU## current crew" />
+# Crew
 Roronoa Zoro
-
-Nami
-
+<img="https://img.favpng.com/3/18/22/roronoa-zoro-one-piece-treasure-cruise-monkey-d-luffy-dracule-mihawk-donquixote-doflamingo-png-favpng-d6Hpw5UGLW4UCunG2fpbG6b1X.jpg" />
 Usopp
-
+<img="https://vignette.wikia.nocookie.net/onepiece/images/7/7d/Kuro_Kabuto.png/revision/latest?cb=20141206174410" />
 Vinsmoke Sanji
-
+<img="
 Tony Tony Chopper
 
 Nico Robin
