@@ -1,4 +1,4 @@
-## One Peice
+## One Piece
 
 
 ### list of Straw hat Luffy's Gang, and possible future recruits.
