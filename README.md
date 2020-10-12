@@ -12,18 +12,27 @@ Monkey D. Luffy
 These are the people that have joined luffy's crew through out the anime. Each one of them has a crazy backstory and they all have a goal they are trying to achive just like Luffy. They are extremely reliable and are one of the most powerfull groups in all of One Piece.
 
 Roronoa Zoro
+
 ![zoro](https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/roronoa-zoro-darko-simple-art.jpg)
 He has a goal to become the greatest swords man in the world and he joined the crew because he thought it would help him to his goal the fastest. He made a promise to an old friend that they would both become the strongest, but she got sick and he has been completing the promise ever since.
 
+Nami
+
+![nami](https://i.pinimg.com/originals/f9/45/6d/f9456da8f351c6a572579e2ee0efc7ff.png)
+After her mother was killed by pirats they forces nami to join because of her noledge of map drawing and navigation. She joined the crew because they defeated the pirates for her and set her free.
+
 Usopp
+
 ![usopp](https://vignette.wikia.nocookie.net/onepiece/images/3/35/Usopp_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20130708033601)
 His dad left to sea when he was little and usopp wanted to become a respected pirat just like him. Usopp is a sniper and his wepon of choice is slingshot.
 
 Vinsmoke Sanji
+
 ![sanji](https://static.wikia.nocookie.net/loveinterest/images/7/73/Sanji_im_Alter_von_21_Jahren_auf_dem_Sabaody-Archipel.jpg/revision/latest/top-crop/width/360/height/450?cb=20180902235218)
 Sanji is the cook on the ship, before he joined the crew he worked at a renowned ship restaurant that went areound serving amazing food. He joined to travel around the world to search for the all blue, which is a part in the sea that combines all the seas. In the all blue there is said to be the best taisting fish, and many cooks dream to see this place at least once.
 
 Tony Tony Chopper
+
 ![copper](https://vignette.wikia.nocookie.net/onepiece/images/e/e6/Tony_Tony_Chopper_Anime_Pre_Timeskip_Infobox.png/revision/latest?cb=20160207143020)
 Chopper is the ships doctor who grew up with a terrible doctor. Even though his teacher was bad, chopper became a fenominal doctor, and is on the journy because he found friends to hang out with.
 
