@@ -6,15 +6,15 @@
 
 # Captain
 Monkey D. Luffy
-<img= "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS88f36TVnyhPtN1tENLPrt3EFUCFUvR2pKQw&usqp=CAU## current crew" />
+ [![An old rock in the desert](/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")] (https://www.anime-planet.com/images/characters/monkey-d-luffy-74.jp) 
+ 
 This is the main character of One Piece and is the captain of the straw hat crew. One of his biggest gaols in life is to become the pirate king. He became a pirate because he loved the freedom and because he looked up to a great pirate, red hair Shanks.
 # Crew
 These are the people that have joined luffy's crew through out the anime. Each one of them has a crazy backstory and they all have a goal they are trying to achive just like Luffy. They are extremely reliable and are one of the most powerfull groups in all of One Piece.
 
 Roronoa Zoro
-<img= "https://img.favpng.com/3/18/22/roronoa-zoro-one-piece-treasure-cruise-monkey-d-luffy-dracule-mihawk-donquixote-doflamingo-png-favpng-
-d6Hpw5UGLW4UCunG2fpbG6b1X.jpg" />
-He has a goal to become the greatest swords man in the world and he joined the crew because he thought it would help him to his goal the fastest.
+<img= "https://static.displate.com/857x1200/displate/2019-06-05/0803e1789fe48dd903e46fb51c7ec79f_2a057cad2b17e39954d70b8a8450f137.jpg" />
+He has a goal to become the greatest swords man in the world and he joined the crew because he thought it would help him to his goal the fastest. He made a promise to an old friend that they would both become the strongest, but she got sick and he has been completing the promise ever since.
 
 Usopp
 <img= "https://vignette.wikia.nocookie.net/onepiece/images/7/7d/Kuro_Kabuto.png/revision/latest?cb=20141206174410" />
@@ -25,7 +25,8 @@ Vinsmoke Sanji
 Sanji is the cook on the ship, before he joined the crew he worked at a renowned ship restaurant that went areound serving amazing food. He joined to travel around the world to search for the all blue, which is a part in the sea that combines all the seas. In the all blue there is said to be the best taisting fish, and many cooks dream to see this place at least once.
 
 Tony Tony Chopper
-
+<img= "https://vignette.wikia.nocookie.net/onepiece/images/e/e6/Tony_Tony_Chopper_Anime_Pre_Timeskip_Infobox.png/revision/latest?cb=20160207143020" />
+Chopper is the ships doctor who grew up with a terrible doctor. Even though his teacher was bad, chopper became a fenominal doctor, and is on the journy because he found friends to hang out with.
 
 Nico Robin
 
