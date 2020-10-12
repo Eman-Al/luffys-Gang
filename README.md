@@ -8,9 +8,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
 # Captain
 Monkey D. Luffy
 <img="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS88f36TVnyhPtN1tENLPrt3EFUCFUvR2pKQw&usqp=CAU## current crew" />
